@@ -1,0 +1,28 @@
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Popins",sans-serif;
+}
+
+.subtitle{
+    font-size: 25px;
+    color: #fff;
+    margin-top: 16px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 3px 4px 2px rgb(148, 138, 138);
+    padding: 5px 10px;
+}
+
+span{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.quizInfo {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    margin: 10px;
+    color: #fff;
+}

@@ -1,0 +1,14 @@
+.results{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+}
+.scores{
+    font-size: 70px;
+}
+span{
+    
+    color: rgb(255, 255, 255) ;
+}
